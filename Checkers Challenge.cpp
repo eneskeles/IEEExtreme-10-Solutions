@@ -116,8 +116,8 @@ int main()
 				if ( arr[i][j]== 'o')
 				{
 					arr[i][j] = '.';
-					cout << DFS(i, j, (i == 0), numB, -1)<< endl;
+					cout<<DFS(i, j, (i == 0), numB, -1) <<endl;
 				}
 	}
-	return 0 ;
+	return 0;
 }
