@@ -43,7 +43,6 @@ int main()
 						DP[i][j][k] = 0;
 				}
 		
-
 		cout<<solve(21, 21, 1)<<endl; 
 	}
 	
