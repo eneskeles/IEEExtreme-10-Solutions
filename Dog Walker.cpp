@@ -4,7 +4,6 @@ using namespace std;
 int main()
 {
 	int T, N, K;
-	
 	int arr[100005];	
 	
 	scanf("%d", &T);
